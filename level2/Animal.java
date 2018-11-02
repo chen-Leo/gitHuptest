@@ -1,4 +1,4 @@
-package test2;
+package level2;
 
 public class Animal {
   private String foodKind;
