@@ -1,5 +1,5 @@
-package test;
-import test.People;
+package level0;
+import level0.People;
 public class Main {
 	
 	public static void main(String[] args) {
