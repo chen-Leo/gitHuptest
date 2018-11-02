@@ -1,5 +1,5 @@
-package test2;
-import test2.Animal;
+package level2;
+import level2.Animal;
 
 public class Dog extends Animal {
 	Dog(){
